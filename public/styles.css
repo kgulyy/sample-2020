@@ -5,3 +5,7 @@ body {
 .frontend {
   color: blue;
 }
+
+a, input {
+  display: block;
+}
